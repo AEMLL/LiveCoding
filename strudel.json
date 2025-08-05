@@ -1,6 +1,6 @@
 {
 	"_base":"https://raw.githubusercontent.com/AEMLL/LiveCoding/main/audio/",
 	"vocals":["vocals/WHADA.wav", "vocals/John_WAT_2.wav"],
-	"breaks":"breaks/Baltimore_Break_5.wav",
+	"breaks":["breaks/Baltimore_Break_2.wav","breaks/Baltimore_Break_5.wav"],
 	"jersey":"jersey/Whip_Crack.wav"
 }
